@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 1001,
+      "name": "James",
+      "email": "james@gmail.com",
+      "mobile": "9898343232",
+      "role": "software_developer"
+    },
+    {
+      "id": 1002,
+      "name": "Robert",
+      "email": "robert@gmail.com",
+      "mobile": "8898343232",
+      "role": "software_tester"
+    },
+    {
+      "id": "1003",
+      "name": "Daniel",
+      "email": "daniel@gmail.com",
+      "mobile": "8787878432",
+      "role": "network_engineer"
+    },
+    {
+      "id": "1004",
+      "name": "Angel",
+      "email": "angel@gmail.com",
+      "mobile": "9782349321",
+      "role": "full_stack_developer"
+    }
+  ]
+}
